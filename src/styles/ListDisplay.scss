@@ -1,0 +1,72 @@
+.ListDisplay {
+  width: 90%;
+  height: auto;
+  margin: 20px auto;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-evenly;
+  gap: 1rem;
+}
+
+.list {
+  height: auto;
+  width: 400px;
+  padding: 1rem;
+  //   display: flex;
+  //   flex-direction: column;
+  box-shadow: 8px 8px 10px rgba($color: #000000, $alpha: 0.2);
+
+  form {
+    padding-bottom: 75px;
+  }
+}
+
+.check {
+  border-bottom: green 8px solid;
+}
+
+.todo {
+  border-bottom: orange 8px solid;
+}
+
+.titleInfo {
+  position: relative;
+  top: 2.5%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.listInputCont {
+  margin: 10px 0;
+}
+
+.bottomListBlock {
+  position: absolute;
+  bottom: 0px;
+  height: auto;
+}
+
+.wrapper {
+  height: 100%;
+  position: relative;
+}
+
+.identifier {
+  margin: 5px 0;
+}
+
+.listItem {
+  display: flex;
+  justify-content: space-between;
+  height: 40px;
+  line-height: 40px;
+  margin: 3px 0;
+}
+
+.listActions {
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+}

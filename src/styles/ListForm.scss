@@ -1,0 +1,25 @@
+.ListForm {
+  display: none;
+  flex-direction: column;
+  width: 350px;
+  padding: 3rem;
+  height: 100vh;
+  position: fixed;
+  left: 0;
+  top: 0;
+  background-color: white;
+  z-index: 5;
+  gap: 25px;
+}
+
+.listOptions {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.option {
+  label {
+    margin-right: 8px;
+  }
+}
