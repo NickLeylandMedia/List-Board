@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/List-Board/static/css/main.b048b47f.chunk.css",
+    "main.js": "/List-Board/static/js/main.2e1e31c2.chunk.js",
+    "main.js.map": "/List-Board/static/js/main.2e1e31c2.chunk.js.map",
+    "runtime-main.js": "/List-Board/static/js/runtime-main.39fd7595.js",
+    "runtime-main.js.map": "/List-Board/static/js/runtime-main.39fd7595.js.map",
+    "static/js/2.f6487454.chunk.js": "/List-Board/static/js/2.f6487454.chunk.js",
+    "static/js/2.f6487454.chunk.js.map": "/List-Board/static/js/2.f6487454.chunk.js.map",
+    "index.html": "/List-Board/index.html",
+    "static/css/main.b048b47f.chunk.css.map": "/List-Board/static/css/main.b048b47f.chunk.css.map",
+    "static/js/2.f6487454.chunk.js.LICENSE.txt": "/List-Board/static/js/2.f6487454.chunk.js.LICENSE.txt",
+    "static/media/blankBox.e5a9d6f8.svg": "/List-Board/static/media/blankBox.e5a9d6f8.svg",
+    "static/media/checkedBox.bdf36f78.svg": "/List-Board/static/media/checkedBox.bdf36f78.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39fd7595.js",
+    "static/js/2.f6487454.chunk.js",
+    "static/css/main.b048b47f.chunk.css",
+    "static/js/main.2e1e31c2.chunk.js"
+  ]
+}
